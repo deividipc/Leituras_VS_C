@@ -22,6 +22,7 @@ namespace Leituras
             "Connect Timeout = 30;" +
             "Encrypt=False;TrustServerCertificate=False;" +
             "ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+       
 
         public inicio()
         {
